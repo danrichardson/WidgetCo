@@ -1,0 +1,9 @@
+C:\Users\Dan\Documents\Visual Studio 2010\Projects\WidgetCo\WidgetCoUnitTests\bin\Debug\WidgetCoUnitTests.dll
+C:\Users\Dan\Documents\Visual Studio 2010\Projects\WidgetCo\WidgetCoUnitTests\bin\Debug\WidgetCoUnitTests.pdb
+C:\Users\Dan\Documents\Visual Studio 2010\Projects\WidgetCo\WidgetCoUnitTests\bin\Debug\WidgetCo.exe
+C:\Users\Dan\Documents\Visual Studio 2010\Projects\WidgetCo\WidgetCoUnitTests\bin\Debug\WidgetCo.pdb
+C:\Users\Dan\Documents\Visual Studio 2010\Projects\WidgetCo\WidgetCoUnitTests\bin\Debug\WidgetCo_Accessor.exe
+C:\Users\Dan\Documents\Visual Studio 2010\Projects\WidgetCo\WidgetCoUnitTests\bin\Debug\WidgetCo_Accessor.pdb
+C:\Users\Dan\Documents\Visual Studio 2010\Projects\WidgetCo\WidgetCoUnitTests\obj\Debug\WidgetCoUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2010\Projects\WidgetCo\WidgetCoUnitTests\obj\Debug\WidgetCoUnitTests.dll
+C:\Users\Dan\Documents\Visual Studio 2010\Projects\WidgetCo\WidgetCoUnitTests\obj\Debug\WidgetCoUnitTests.pdb
