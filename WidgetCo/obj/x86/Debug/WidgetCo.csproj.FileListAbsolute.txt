@@ -17,3 +17,24 @@ C:\Users\Dan\Documents\Visual Studio 2010\Projects\WidgetCo\WidgetCo\obj\x86\Deb
 C:\Users\Dan\Documents\Visual Studio 2010\Projects\WidgetCo\WidgetCo\obj\x86\Debug\WidgetCo.csproj.GenerateResource.Cache
 C:\Users\Dan\Documents\Visual Studio 2010\Projects\WidgetCo\WidgetCo\obj\x86\Debug\WidgetCo.exe
 C:\Users\Dan\Documents\Visual Studio 2010\Projects\WidgetCo\WidgetCo\obj\x86\Debug\WidgetCo.pdb
+C:\Users\Plympton\Source\Repos\WidgetCo2\WidgetCo\bin\Debug\WidgetCo.exe.config
+C:\Users\Plympton\Source\Repos\WidgetCo2\WidgetCo\bin\Debug\WidgetCo.exe
+C:\Users\Plympton\Source\Repos\WidgetCo2\WidgetCo\bin\Debug\WidgetCo.pdb
+C:\Users\Plympton\Source\Repos\WidgetCo2\WidgetCo\obj\x86\Debug\View\Instructions.baml
+C:\Users\Plympton\Source\Repos\WidgetCo2\WidgetCo\obj\x86\Debug\View\Instructions.g.cs
+C:\Users\Plympton\Source\Repos\WidgetCo2\WidgetCo\obj\x86\Debug\View\ItemList.g.cs
+C:\Users\Plympton\Source\Repos\WidgetCo2\WidgetCo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Plympton\Source\Repos\WidgetCo2\WidgetCo\obj\x86\Debug\View\RelatedItems.g.cs
+C:\Users\Plympton\Source\Repos\WidgetCo2\WidgetCo\obj\x86\Debug\App.g.cs
+C:\Users\Plympton\Source\Repos\WidgetCo2\WidgetCo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Plympton\Source\Repos\WidgetCo2\WidgetCo\obj\x86\Debug\WidgetCo_MarkupCompile.cache
+C:\Users\Plympton\Source\Repos\WidgetCo2\WidgetCo\obj\x86\Debug\WidgetCo_MarkupCompile.lref
+C:\Users\Plympton\Source\Repos\WidgetCo2\WidgetCo\obj\x86\Debug\View\ItemList.baml
+C:\Users\Plympton\Source\Repos\WidgetCo2\WidgetCo\obj\x86\Debug\MainWindow.baml
+C:\Users\Plympton\Source\Repos\WidgetCo2\WidgetCo\obj\x86\Debug\View\RelatedItems.baml
+C:\Users\Plympton\Source\Repos\WidgetCo2\WidgetCo\obj\x86\Debug\WidgetCo.g.resources
+C:\Users\Plympton\Source\Repos\WidgetCo2\WidgetCo\obj\x86\Debug\WidgetCo.Properties.Resources.resources
+C:\Users\Plympton\Source\Repos\WidgetCo2\WidgetCo\obj\x86\Debug\WidgetCo.csproj.GenerateResource.cache
+C:\Users\Plympton\Source\Repos\WidgetCo2\WidgetCo\obj\x86\Debug\WidgetCo.csproj.CoreCompileInputs.cache
+C:\Users\Plympton\Source\Repos\WidgetCo2\WidgetCo\obj\x86\Debug\WidgetCo.exe
+C:\Users\Plympton\Source\Repos\WidgetCo2\WidgetCo\obj\x86\Debug\WidgetCo.pdb
